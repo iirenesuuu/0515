@@ -1,0 +1,1 @@
+https://cryptic-castle-25226.herokuapp.com/admin/login/?next=/admin/
